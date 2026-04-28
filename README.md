@@ -1,2 +1,23 @@
 # task-management
-A simple task management project, developed during my studies of programming logic with Python. Focused on practicing basic structures and developing logical reasoning.
+
+# 📌 Gerenciamento de Tarefas
+
+## 📖 Sobre o projeto
+Aplicação simples em Python para gerenciamento de tarefas, desenvolvida com foco no aprendizado de lógica de programação e estruturas de dados.
+
+## 🚀 Funcionalidades
+- Adicionar tarefas
+- Listar tarefas
+- Marcar como concluída
+
+## 🛠️ Tecnologias utilizadas
+- Python
+
+## 📚 Aprendizados
+- Estruturas de dados (listas e dicionários)
+- Funções
+- Organização de código
+
+## ▶️ Como executar
+```bash
+python gerenciamento-de-tarefas.py
